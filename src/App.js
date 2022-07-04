@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import FetchNews from './components/FetchNews';
 import './App.css';
 
